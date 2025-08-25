@@ -29,8 +29,7 @@ End-to-end ML pipeline for predicting customer churn using feature engineering +
 🔹 [**Fake News Detection (NLP)**](https://colab.research.google.com/drive/15qvuI4tB4uvdNWLuli6U7BmYoMfOCTgL)  
 NLP model using TF-IDF + Transformers Langs classify fake vs real news.  
 
-🔹 [**AI-Powered Token Analyzer & Trading Bot
-**](https://colab.research.google.com/drive/1akLvBeareiKBFjZmj-HVXNKOhdk6hMUf#scrollTo=5KgED2rejKub)  
+🔹 [**AI-Powered Token Analyzer & Trading Bot**](https://colab.research.google.com/drive/1akLvBeareiKBFjZmj-HVXNKOhdk6hMUf#scrollTo=5KgED2rejKub)  
 Combines blockchain data, AI evaluation, and smart contract interaction.
 Deployed ML model with FastAPI + Docker + Streamlit.  
 
