@@ -26,6 +26,9 @@ I build end-to-end AI solutions — from **data collection & analysis** to **mac
 🔹 [**Customer Churn Prediction (ML)**](https://colab.research.google.com/drive/1IKj8JWnsgIKKAOWYaAhcJPFp1pymet_p)  
 End-to-end ML pipeline for predicting customer churn using feature engineering + XGBoost.  
 
+🔹 [**ATP Match Prediction (Sports Analytics)**](https://colab.research.google.com/drive/1-DwjXNaVlOD-57IDLZctsSkeTqF6ZBUv#scrollTo=eOIlSHhvgC-r)  
+End-to-end ML system to predict ATP tennis match outcomes using player rankings, recent form, and surface stats.  
+
 🔹 [**Fake News Detection (NLP)**](https://colab.research.google.com/drive/15qvuI4tB4uvdNWLuli6U7BmYoMfOCTgL)  
 NLP model using TF-IDF + Transformers Langs classify fake vs real news.  
 
@@ -54,7 +57,7 @@ Deployed ML model with FastAPI + Docker + Streamlit.
 
 ## 💬 Let’s Connect!
 - 📧 Email: **faruqanjo@gmail.com**  
-- 💼 LinkedIn: [Your LinkedIn Link]  
+- 💼 LinkedIn: []  
 - 📝 Portfolio Website: [Your Portfolio Link]  
 
 ---
