@@ -12,7 +12,7 @@ I build end-to-end AI solutions — from **data collection & analysis** to **mac
 - 📫 Reach me: **faruqanjo@gmail.com** | [LinkedIn] (https://www.linkedin.com/in/adeleke-faruq-02486b375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
 
-## ⚡ Tech LinkedInstt-learn
+## ⚡ Tech stack
 - **Languages:** Python, SQL, R  
 - **ML/DL:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
 - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
