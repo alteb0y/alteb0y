@@ -41,9 +41,12 @@ Deployed ML model with FastAPI + Docker + Streamlit.
 ---
 
 ## 📊 GitHub Stats
-![Faruq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alteb0y&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alteb0y&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=alteb0y&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=alteb0y&label=Profile%20views&color=ff69b4&style=for-the-badge)
+---
 
 ---
 
