@@ -58,7 +58,7 @@ Deployed ML model with FastAPI + Docker + Streamlit.
 ## 💬 Let’s Connect!
 - 📧 Email: **faruqanjo@gmail.com**  
 - 💼 LinkedIn: []  
-- 📝 Portfolio Website: [Your Portfolio Link]  
+- 📝 Portfolio Website: [alteb0y.github.io]  
 
 ---
 ⭐️ *Check out my pinned projects below — they’re my best work!*
