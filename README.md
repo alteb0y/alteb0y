@@ -26,6 +26,8 @@ I build end-to-end AI solutions — from **data collection & analysis** to **mac
 🔹 [**Customer Churn Prediction (ML)**](https://colab.research.google.com/drive/1IKj8JWnsgIKKAOWYaAhcJPFp1pymet_p)  
 End-to-end ML pipeline for predicting customer churn using feature engineering + XGBoost.  
 
+🔹 [**Fake News Detection (NLP)**](https://colab.research.google.com/drive/15qvuI4tB4uvdNWLuli6U7BmYoMfOCTgL)  
+NLP model using TF-IDF + Transformers Langs classify fake vs real news.  
 
 🔹 [**Churn Prediction Web App**](link-to-repo)  
 Deployed ML model with FastAPI + Docker + Streamlit.  
